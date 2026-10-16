@@ -1,4 +1,4 @@
-> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS-Wearable Index](https://github.com/Explore-In-HMOS-Wearable/hmos-index).
+> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS Index](https://github.com/Explore-In-HMOS/hmos-index).
 
 # How to Implement Secure Storage with Asset Store Kit
 This sample demonstrates how to integrate **Asset Store Kit** to securely store sensitive information on the device. Asset Store Kit features adding key-values, updating values, and delete operations on the stored values
